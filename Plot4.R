@@ -1,3 +1,6 @@
+SCC <- readRDS('E:/Source_Classification_Code.rds')
+NEI <- readRDS('E:/summarySCC_PM25
+
 #4. Across the United States, how have emissions from coal combustion-related sources changed
 #   from 1999–2008?
 
